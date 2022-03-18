@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at [TV Band](https://www.band.uol.com.br/)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
 - 💬 Ask me about **Angular, HTML, CSS**
