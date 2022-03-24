@@ -1,5 +1,5 @@
 
-<img align="right" alt="Ane-pic" height="250" style="border-radius:45px;" src="https://c.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
+<img align="right" alt="Ane-pic" height="250" style="border-radius:90px;" src="https://c.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> People, I`m Rafael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelNevesdeOliveira&color=yellow" alt="Profile views" /> </p>
 
