@@ -9,7 +9,7 @@
 
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
-- 💬 Ask me about **Angular,Typescript, HTML, CSS**
+- 💬 Ask me about **![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;,Typescript, ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;, ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;**
 
 
 <br><br>
