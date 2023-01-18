@@ -9,7 +9,7 @@
 
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
-- 💬 Ask me about **Angular, HTML, CSS**
+- 💬 Ask me about **Angular,Typescript, HTML, CSS**
 
 
 <br><br>
