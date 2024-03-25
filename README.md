@@ -5,7 +5,7 @@
 
 - 🔥 Web Developer  and friendly on helping people start programming 
 
-- 🔭 I’m currently working at [Vórtx]([https://www.totvs.com/wms/?utm_campaign=s-wms&utm_source=google-search&utm_medium=cpc&utm_term=sistema-wms&&utm_term=wms&hsa_tgt=aud-96712161948:kwd-45426232&hsa_src=g&hsa_acc=5745705588&hsa_cam=17450921278&hsa_grp=143398178131&hsa_mt=p&hsa_kw=wms&hsa_net=adwords&hsa_ver=3&hsa_ad=603576690233&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfL7SruhLx4pDyF3ye9x_niKKjcfZYN94O0o18aKlAe9_fJf7P4UV_MaAvLWEALw_wcB&gclsrc=aw.ds](https://www.vortx.com.br/))
+- 🔭 I’m currently working at [Vórtx](https://www.vortx.com.br/)
 
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
