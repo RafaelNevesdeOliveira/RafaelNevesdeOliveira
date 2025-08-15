@@ -5,7 +5,7 @@
 
 - 🔥 Web Developer  and friendly on helping people start programming 
 
-- 🔭 I’m currently working at [Vórtx](https://www.vortx.com.br/)
+- 🔭 I’m currently working at [Mercado Livre]([https://www.vortx.com.br/](https://www.mercadolivre.com.br/))
 
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
