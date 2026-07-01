@@ -39,7 +39,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelNevesdeOliveira&show_icons=true&count_private=true" alt="RafaelNevesdeOliveira's stats"/>
+  <img src="https://ghchart.rshah.org/RafaelNevesdeOliveira" alt="RafaelNevesdeOliveira's contribution graph"/>
 </div>
 
 <br><br>
