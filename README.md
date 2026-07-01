@@ -39,13 +39,12 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelNevesdeOliveira&show_icons=true&theme=dracula&hide_border=true" alt="RafaelNevesdeOliveira's stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNevesdeOliveira&layout=compact&theme=dracula&hide_border=true" alt="RafaelNevesdeOliveira's most languages"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelNevesdeOliveira&show_icons=true&theme=default" alt="RafaelNevesdeOliveira's stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNevesdeOliveira&layout=compact&theme=default" alt="RafaelNevesdeOliveira's most languages"/>
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelNevesdeOliveira&theme=dracula&hide_border=true" alt="RafaelNevesdeOliveira's streak"/>
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=RafaelNevesdeOliveira&theme=dracula&no-frame=true&no-bg=true" alt="RafaelNevesdeOliveira's trophies"/>
+  <img width="400" src="https://streak-stats.demolab.com/?user=RafaelNevesdeOliveira&theme=default" alt="RafaelNevesdeOliveira's streak"/>
 </div>
 
 <br><br>
