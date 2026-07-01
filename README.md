@@ -39,7 +39,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/RafaelNevesdeOliveira" alt="RafaelNevesdeOliveira's contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelNevesdeOliveira&theme=dracula" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelNevesdeOliveira&theme=dracula" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelNevesdeOliveira&theme=dracula" alt="Most commit language"/>
 </div>
 
 <br><br>
