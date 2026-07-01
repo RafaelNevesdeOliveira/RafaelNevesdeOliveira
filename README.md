@@ -39,19 +39,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelNevesdeOliveira&show_icons=true&theme=default" alt="RafaelNevesdeOliveira's stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNevesdeOliveira&layout=compact&theme=default" alt="RafaelNevesdeOliveira's most languages"/>
-</div>
-
-<div align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=RafaelNevesdeOliveira&theme=default" alt="RafaelNevesdeOliveira's streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelNevesdeOliveira&show_icons=true&count_private=true" alt="RafaelNevesdeOliveira's stats"/>
 </div>
 
 <br><br>
 
 ## 🙍🏼‍♂ &nbsp;Social Links
 
-<p align="left">
+<p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafaelnevesdev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
