@@ -5,7 +5,7 @@
 
 - 🔥 Web Developer and friendly on helping people start programming
 
-- 🔭 I’m currently working at [Mercado Livre](https://mercadolivre.com)
+- 🔭 I’m currently working at [Chaintech](https://chaintech.com.br)
 
 - ▶️ I regularly post articles on [Medium](https://medium.com/@rafaelneves652)
 
